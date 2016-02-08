@@ -10,7 +10,7 @@ chef_cookbook_path: ./provision
 #
 # Virtual Machine Settings
 #
-memory: 512
+memory: 2000
 cpus: 1
 
 #
