@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/admin-troy/Source/Repos/IDVW/IDWPapp/IDWPapp/vagrant-lamp-stack","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/admin-troy/Source/Repos/IDVW/IDWPapp/IDWPapp/vagrant-lamp-stack","disabled":false,"__vagrantfile":true}}}

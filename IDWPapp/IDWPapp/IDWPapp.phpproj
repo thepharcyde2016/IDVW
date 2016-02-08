@@ -19,4 +19,12 @@
     <Compile Include="index.php" />
     <Compile Include="Script1.php" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="vagrant-lamp-stack\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vagrant-lamp-stack\bootstrap.sh" />
+    <Content Include="vagrant-lamp-stack\README.md" />
+    <Content Include="vagrant-lamp-stack\Vagrantfile" />
+  </ItemGroup>
 </Project>
